@@ -21,7 +21,7 @@
 <h3 align="left">🚀 Tech Stack</h3>
 
 ###
-
+🌐 Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -41,7 +41,7 @@
 </div>
 
 ###
-
+⚙️ Backend 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -53,7 +53,7 @@
 </div>
 
 ###
-
+ 🗄️ Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -67,7 +67,7 @@
 </div>
 
 ###
-
+☁️ Cloud 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -77,7 +77,7 @@
 </div>
 
 ###
-
+🛠️ Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -87,7 +87,7 @@
 </div>
 
 ###
-
+🤖 AI ML
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
