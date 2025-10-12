@@ -87,7 +87,7 @@
 </div>
 
 ###
-🤖 AI ML
+⛄Programming Language 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -104,6 +104,7 @@
 
 ###
 
+🤖 AI ML
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
