@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="ttps://raw.githubusercontent.com/kamalsinha7305/kamalsinha7305/main/banner.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/kamalsinha7305/kamalsinha7305/main/banner.png"  />
 </div>
 
 ###
