@@ -64,6 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
 </div>
 
+***
 ### 📊 GitHub Stats
 <table>
   <tr>
@@ -77,8 +78,7 @@
   </tr>
 </table>
 
-
-
+***
 ### 📈 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalsinha7305/kamalsinha7305/output/pacman-contribution-graph-dark.svg">
