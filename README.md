@@ -14,7 +14,7 @@
 
 - 👨‍💻 Full Stack Developer | Certified in MERN Stack & Generative AI.
 - 🎓 Pursuing a B.Tech in ECE at VIT Vellore and a B.S. in Data Science at IIT Madras
-- 💬 Co-Founder **Imaginum**
+- 💭 Co-Founder [**Imaginum**](https://imaginumorg.vercel.app/)
 - 🌱 I’m currently learning **AI/ML**
 - 🔭 I’m currently working on **Campus Mart and Cab Sync APP**
 - 📫 How to reach me: **kamalsinha7305@gmail.com**
