@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="top_image.gif" width="600" alt="Your Name's Cool GIF">
+  <img src="top_image.gif" width="800" alt="Your Name's Cool GIF">
 </p>
 <h1 align="center">Hi 👋, I'm Kamal Sinha</h1>
 
