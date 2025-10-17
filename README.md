@@ -2,10 +2,13 @@
   <img src="right_side_image.gif" width="800" alt="Your Name's Cool GIF">
 </p>
 
-<h1 align="center">Hi 👋, I'm Kamal Sinha</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Kamal+Sinha;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</h1>
 <h3 align="center">Electronics & Communication Engineer @ VIT | BSc Data Science @ IIT Madras | Co-Founder @ Imaginum | Full-Stack & Software Developer</h3>
 
 <img align="right" alt="Coding" height="350" src="IMAGE_2.gif">
+
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalsinha7305.kamalsinha7305" /> </p>
 
@@ -82,4 +85,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalsinha7305/kamalsinha7305/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalsinha7305/kamalsinha7305/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
+
 
