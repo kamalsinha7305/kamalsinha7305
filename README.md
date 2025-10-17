@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalsinha7305.kamalsinha7305&"  /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt=""  </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
