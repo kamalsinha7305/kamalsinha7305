@@ -1,0 +1,21 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  # This runs the job every 8 hours
+  schedule:
+    - cron: '0 */8 * * *'
+  # This allows you to run the job manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Pacman Graph
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: platane/platane-github-pacman@v1.0.1
+        with:
+          github_user_name: kamalsinha7305
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_folder: output
