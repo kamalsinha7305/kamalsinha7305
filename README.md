@@ -9,7 +9,7 @@
 
 
 <h3 align="center">Electronics & Communication Engineer  @ VIT | BSc Data Science @ IIT Madras | @ Co-Founder Imaginum | Full-Stack  & Software Developer</h3>
-<img align="right" alt="Coding" width="500" src="top_image_gif">
+<img align="right" alt="Coding" width="500" src="top_image.gif">
 
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalsinha7305.kamalsinha7305&" /> </p>
