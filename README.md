@@ -9,9 +9,11 @@
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalsinha7305.kamalsinha7305" /> </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
-- 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Android, MERN Stack**
+- 👨‍💻 Full Stack Developer | Certified in MERN Stack & Generative AI.
+- 🎓 Pursuing a B.Tech in ECE at VIT Vellore and a B.S. in Data Science at IIT Madras
+- 💬 Co-Founder **Imaginum**
+- 🌱 I’m currently learning **AI/ML**
+- 🔭 I’m currently working on **Campus Mart and Cab Sync APP**
 - 📫 How to reach me: **kamalsinha7305@gmail.com**
 - ⚡ Fun fact: **I am Funny**
 
