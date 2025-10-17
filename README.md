@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalsinha7305.kamalsinha7305&"  /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalsinha7305.kamalsinha7305&" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt=""  </p>
+<p align="left"> <a href=" " target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt=""  </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
