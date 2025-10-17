@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="top_image.gif" width="800" alt="Your Name's Cool GIF">
+  <img src="right_side_image.gif" width="800" alt="Your Name's Cool GIF">
 </p>
 <h1 align="center">Hi 👋, I'm Kamal Sinha</h1>
 
@@ -9,7 +9,7 @@
 
 
 <h3 align="center">Electronics & Communication Engineer  @ VIT | BSc Data Science @ IIT Madras | @ Co-Founder Imaginum | Full-Stack  & Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="right_side_image.gif">
+<img align="right" alt="Coding" width="500" src="top_image_gif">
 
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalsinha7305.kamalsinha7305&" /> </p>
